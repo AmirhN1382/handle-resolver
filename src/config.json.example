@@ -1,0 +1,15 @@
+{
+    "production":{
+        "clientId": "945672261489291294",
+        "guildId": "925915666547093504",
+        "token": "bot token"
+    },
+    "dev":{
+        "clientId": "1017263097511153685",
+        "guildId": "804155772635578458",
+        "token": "bot token"
+    },
+    "blockfrost_api_key": "project_id / api_key",
+    "handle_regex": "\\$[a-zA-z0-9-_.]{1,15}",
+    "isDev": true
+}
